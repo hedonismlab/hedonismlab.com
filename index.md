@@ -8,23 +8,23 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 2</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">Sensory Potential</h2>
+  <p class="post-excerpt">When was the last time you took your sensorium for a thorough test drive?</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Technological Challenges</h2>
+  <p class="post-excerpt">What problems stand in the way of exploring unique sensual experiences, and how can we engineer around them?</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Social Context</h2>
+  <p class="post-excerpt">Why do we push some of our buttons often, and others rarely or never?</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Imagination</h2>
+  <p class="post-excerpt">What experiences might we invent if we let go of practicality or even possibility?</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
