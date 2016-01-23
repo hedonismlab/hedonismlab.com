@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Articles"
+title: "Updates"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "A collection of thoughts, inspiration, mistakes, and other minutia."
+excerpt: "Latest updates from Hedonism Lab."
 tags: []
 image:
   feature:
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.articles %}
+{% for post in site.categories.updates %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

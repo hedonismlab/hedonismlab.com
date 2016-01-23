@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Welcome to the Lab"
-categories: articles
+categories: updates
 modified: 2016-02-05
 share: false
 ads: true
