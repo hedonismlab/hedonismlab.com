@@ -1,11 +1,10 @@
 {
-  "name": "skinny-bones-jekyll",
+  "name": "hedonismlab",
   "version": "1.0.0",
   "private": true,
-  "description": "A Jekyll starter site",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mademistakes.com/",
-  "license": "The MIT License (MIT)",
+  "description": "hedonismlab.com",
+  "author": "",
+  "homepage": "http://hedonismlab.com/",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.8.0",
