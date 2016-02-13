@@ -11,6 +11,8 @@
     {% include open-graph.html %}
     {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
 
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
@@ -36,7 +38,7 @@
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
-        <h1>Hedonism Lab</h1>
+        <img src="/images/HedLab-Logo-350w.png" />
         <h2>An arts and technology think tank exploring unique sensual experiences.</h2>
         <!-- <a href="{{ site.url }}/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a> -->
       </div><!-- /.page-lead-content -->
