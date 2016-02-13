@@ -21,12 +21,18 @@
    ========================================================================== */
 
 .sliding-menu-button {
+  @include media($large) {
+    display: none;
+  };
+  @include media($medium) {
+    display: none;
+  }
+  display: block;
   position: fixed;
   transform: translateZ(0);
   backface-visibility: hidden; /* fix scroll jank */
   top: 42px;
   right: $gutter;
-  display: block;
   width: $button-size * 2;
   height: $button-size * 2;
   background: $primary-color;
