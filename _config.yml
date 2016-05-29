@@ -1,0 +1,38 @@
+# Site wide configuration
+
+title: Hedonism Lab
+description: An arts and technology think tank exploring unique sensual experiences
+logo: 120x120.gif
+teaser: blacklogostrip.png
+locale: en_US
+#url: //hedonismlab.com
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: Daniel
+  web:
+  email:
+  twitter:
+  bio:
+  avatar:
+  google:
+    plus:
+    ad-client:
+    ad-slot:
+  disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json", "docs"]

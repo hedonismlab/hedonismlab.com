@@ -1,0 +1,15 @@
+# Site navigation links
+
+- title: Updates
+  url: /updates/
+  excerpt: "What we've been up to"
+  #image: HedLab-Logo-Black-400x283.png
+
+- title: Projects
+  url: /projects/
+  excerpt: "Hedonism Lab's current explorations"
+  image: 400x250.gif
+
+- title: About
+  url: /about/
+  image: 400x250.gif
