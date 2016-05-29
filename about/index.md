@@ -13,3 +13,5 @@ ads: false
 ---
 
 Hedonism Lab: an arts and technology think tank exploring unique sensual experiences
+
+For all inquiries, contact [daniel@hedonismlab.com](mailto:daniel@hedonismlab.com)
